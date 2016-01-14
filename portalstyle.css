@@ -1,0 +1,36 @@
+
+#header{
+    width:800px;
+    height:250px;
+    float:right;
+}
+
+#container {
+    width:800px;
+    margin:20px auto;
+}
+
+#blogcontent {
+	width:600px;
+	float:left;
+}
+
+#content {
+    float:left;
+    width:400px;
+}
+
+#sidebar {
+    float:left;
+    width:400px;
+}
+
+#footer {
+    clear:both;
+}
+
+*{font-family:"Avenir", "Arial", "Veranda";
+font-size: 20px;
+color: black;
+text-decoration: none;}
+
